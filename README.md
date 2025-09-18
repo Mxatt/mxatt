@@ -50,7 +50,7 @@ I also enjoy learning about data analysis and how to use information to make sma
 ## Check out my Social Media
 
 <a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://www.instagram.com/mxatt_/?hl=es&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@vapixel_" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
