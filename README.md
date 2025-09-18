@@ -52,7 +52,7 @@ I also enjoy learning about data analysis and how to use information to make sma
 <a href= "https://www.instagram.com/mxatt_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="matutesalgado@gmail.com" >
+<a href="mailto:matutesalgado@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.linkedin.com/in/mat%C3%ADas-ezequiel-salgado-heinrich-586b3a217/" >
