@@ -17,19 +17,17 @@ I also enjoy learning about data analysis and how to use information to make sma
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 
-__Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+## My Skills 
 
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+ 
 
 <h2>👀 My github Stats</h2>
 
@@ -38,10 +36,3 @@ __Check out my GitHub repository:__
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
   
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
-
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
