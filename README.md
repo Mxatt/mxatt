@@ -49,17 +49,15 @@ I also enjoy learning about data analysis and how to use information to make sma
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://www.instagram.com/mxatt_/?hl=es&logoColor=white">
+<a href= "https://www.instagram.com/mxatt_/?hl=es">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+<a href="matutesalgado@gmail.com" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+<a href="https://www.linkedin.com/in/mat%C3%ADas-ezequiel-salgado-heinrich-586b3a217/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href="https://www.youtube.com/@ValenWerle">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
+
 
 <h2>Github stats:</h2> 
