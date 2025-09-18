@@ -7,8 +7,9 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+Hi! I’m Mat, a web development student at UTN, currently focusing on becoming a full-stack developer. I’ve been working with web technologies for about two years, which means I’m comfortable building both the frontend (HTML, CSS, JavaScript, React) and the backend (Node.js, Express, databases like MySQL and MongoDB).
+
+I also enjoy learning about data analysis and how to use information to make smarter decisions in apps and projects. I like understanding not just how things work, but why, so I can apply that logic to other problems. Basically, I love building useful, well-thought-out applications and improving a little more every day.
 - 🌱 I’m currently learning ...
   - MongoDB
   - MY SQL
@@ -33,11 +34,6 @@ __Check out my GitHub repository:__
 <h2>👀 My github Stats</h2>
 
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
